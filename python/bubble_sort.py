@@ -11,3 +11,4 @@ if __name__ == '__main__':
     arr = [2, 4, 5, 7, 8, 10]
     bubble_sort(arr)
     print(arr)
+# use proper comment for better understanding of codes
