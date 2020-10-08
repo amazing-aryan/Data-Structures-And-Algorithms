@@ -1,7 +1,5 @@
 # Data Structures and Algorithms
 
-Check your own profile stats after registering here: https://hacktoberfest.digitalocean.com/stats/<username>
-
 ### About
 This Repo consists of data-structures and algorithms sorted by programming language.
 
