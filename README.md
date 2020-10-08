@@ -1,5 +1,4 @@
 # Data Structures and Algorithms
-For Hacktoberfest 2018! <br/>
 
 Check your own profile stats after registering here: https://hacktoberfest.digitalocean.com/stats/<username>
 
